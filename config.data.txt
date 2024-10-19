@@ -1,0 +1,4 @@
+[cred]
+id = 23116062
+hash = 17544c85de62cbffd75da6022e4372d8
+token = 7639773853:AAFXpSZ6rXUGOIMEeqDaDs3a_qNgvJgYTII
